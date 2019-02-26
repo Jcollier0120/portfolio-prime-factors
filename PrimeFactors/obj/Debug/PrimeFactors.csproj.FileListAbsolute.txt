@@ -1,0 +1,6 @@
+M:\Projects\PrimeFactors\PrimeFactors\bin\Debug\PrimeFactors.exe.config
+M:\Projects\PrimeFactors\PrimeFactors\bin\Debug\PrimeFactors.exe
+M:\Projects\PrimeFactors\PrimeFactors\bin\Debug\PrimeFactors.pdb
+M:\Projects\PrimeFactors\PrimeFactors\obj\Debug\PrimeFactors.csprojResolveAssemblyReference.cache
+M:\Projects\PrimeFactors\PrimeFactors\obj\Debug\PrimeFactors.exe
+M:\Projects\PrimeFactors\PrimeFactors\obj\Debug\PrimeFactors.pdb
